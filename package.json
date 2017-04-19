@@ -19,8 +19,10 @@
   "author": "Harpal",
   "license": "ISC",
   "dependencies": {
+    "lodash": "^4.17.4",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
+    "superagent": "^3.5.2",
     "webpack": "^2.4.1",
     "webpack-dev-server": "^2.4.2"
   }
